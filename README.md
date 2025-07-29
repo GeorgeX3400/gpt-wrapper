@@ -1,12 +1,12 @@
 # 📝 Copywriter - AI-Powered Content Generator
 
-A powerful React application that generates engaging marketing copy using AI templates. Perfect for creating compelling content for challenges, campaigns, and marketing materials with consistent tonality and messaging.
+A React application that generates engaging marketing copy using AI templates. Perfect for creating compelling content for challenges, campaigns, and marketing materials with consistent tonality and messaging.
 
 ## 🚀 Getting Started
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/GeorgeX3400/gpt-wrapper.git
    cd wrapper
    ```
 
@@ -43,7 +43,7 @@ A powerful React application that generates engaging marketing copy using AI tem
 
 ## 🔧 Tech Stack
 
-- **Frontend**: React 18, TypeScript, Tailwind CSS
+- **Frontend**: React, TypeScript
 - **Build Tool**: Vite
 - **UI Components**: Custom component library with shadcn/ui
 - **Styling**: Tailwind CSS with dark mode support
