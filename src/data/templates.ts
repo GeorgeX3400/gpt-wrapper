@@ -1,0 +1,26 @@
+export const templates = [
+  {
+    "tonality": "Epic/Heroic",
+    "text": "🏃‍♂️ THE GAUNTLET HAS BEEN THROWN! 🏃‍♀️\n\nWarriors, your next conquest awaits! Join The Conqueror's [CHALLENGE NAME] and embark on a legendary journey that will test your limits and forge your spirit. This isn't just a run—it's your chance to claim victory over [DISTANCE] of pure determination.\n\n⚔️ Are you ready to join the ranks of legends?\n⚔️ Will you answer the call to greatness?\n⚔️ Can you conquer what others fear to attempt?\n\nEvery step forward is a step toward glory. Every mile conquered is a testament to your unwavering spirit. The path is set, the challenge is real, and your destiny is waiting.\n\n🏆 CLAIM YOUR PLACE AMONG THE CONQUERORS 🏆\n\n#TheConqueror #RunningChallenge #ConquerYourLimits"
+  },
+  {
+    "tonality": "Motivational/Inspirational",
+    "text": "✨ Your journey of transformation starts with a single step ✨\n\nReady to discover what you're truly capable of? The Conqueror's [CHALLENGE NAME] is more than a running challenge—it's your personal pathway to breakthrough moments and incredible achievements.\n\n🌟 Every mile you complete brings you closer to the person you're meant to become\n🌟 Every step forward is proof that you're stronger than you think\n🌟 Every challenge conquered opens doors to new possibilities\n\nWhether you're a seasoned runner or just starting your fitness journey, this challenge will meet you where you are and inspire you to go further than you ever imagined.\n\nYour future self is cheering you on. Are you ready to make them proud?\n\n💪 Start your transformation today with The Conqueror!\n\n#TheConqueror #PersonalGrowth #RunYourWay"
+  },
+  {
+    "tonality": "Community/Friendly",
+    "text": "Hey running family! 👋\n\nWe're so excited to announce our latest adventure together! The [CHALLENGE NAME] is here, and we can't wait to see all the amazing stories, photos, and victories you'll share along the way.\n\nThis challenge is all about celebrating every step, every mile, and every moment of progress—no matter your pace or experience level. We're in this together, cheering each other on and creating memories that will last a lifetime.\n\n🤝 Join thousands of fellow adventurers\n🤝 Share your journey with our supportive community\n🤝 Celebrate every milestone, big and small\n\nCan't wait to see you out there conquering this challenge alongside all your new running buddies! Drop a 🏃‍♂️ in the comments if you're ready to join the fun!\n\n#TheConquerorFamily #RunTogether #CommunityChallenge"
+  },
+  {
+    "tonality": "Adventure/Exploration",
+    "text": "🗺️ CALLING ALL EXPLORERS! 🗺️\n\nPack your running shoes and prepare for an incredible journey! The Conqueror's [CHALLENGE NAME] will take you on a virtual expedition through [LOCATION/ROUTE], where every step unveils new wonders and every mile brings fresh discoveries.\n\n🌍 Explore breathtaking landscapes from your neighborhood\n🌍 Uncover fascinating history and local stories along the route\n🌍 Experience the thrill of adventure, one run at a time\n\nThis isn't just about covering distance—it's about embarking on a quest that feeds your wanderlust and satisfies your craving for exploration. You'll journey through stunning terrains, learn incredible facts, and collect memories that will fuel your adventurous spirit.\n\nReady to turn your daily run into an epic expedition?\n\n🧭 Your adventure awaits with The Conqueror!\n\n#TheConqueror #VirtualAdventure #ExploreTheWorld"
+  },
+  {
+    "tonality": "Achievement/Goal-Oriented",
+    "text": "🎯 NEW CHALLENGE UNLOCKED 🎯\n\nSerious about smashing your running goals? The Conqueror's [CHALLENGE NAME] is designed for achievers who are ready to turn ambition into action.\n\n📊 [DISTANCE] total distance to complete\n📊 Track your progress with precision\n📊 Earn your official finisher medal\n📊 Join the elite group of challenge completers\n\nThis structured challenge provides the framework you need to push your boundaries and achieve something remarkable. With clear milestones, detailed tracking, and a tangible reward waiting at the finish line, you'll have everything necessary to turn your running aspirations into concrete achievements.\n\nReady to add another victory to your personal record book?\n\n🏅 Commit to excellence with The Conqueror\n\n#TheConqueror #AchieveYourGoals #EarnYourMedal"
+  },
+  {
+    "tonality": "Fun/Playful",
+    "text": "🎉 Plot twist: Running just got WAY more exciting! 🎉\n\nWho says challenges can't be absolutely FUN? The Conqueror's [CHALLENGE NAME] is here to prove that crushing your fitness goals can be a total blast!\n\n🎈 Turn your neighborhood into your personal playground\n🎈 Make every run feel like a mini celebration\n🎈 Collect awesome rewards along the way\n🎈 Share hilarious running selfies with fellow adventurers\n\nForget boring, repetitive workouts—this challenge will have you looking forward to lacing up your shoes every single day! Whether you're dancing down the street, high-fiving trees, or racing your own shadow, we're here for ALL the good vibes.\n\nReady to make running ridiculously fun? Let's gooooo! 🚀\n\n#TheConqueror #RunForFun #GoodVibesOnly"
+  }
+];
